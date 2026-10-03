@@ -1,0 +1,3452 @@
+[
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/compress.sh",
+    "bytes": 2494,
+    "sha256": "ed8db1931ebb22b8ec349ae3768444c51ed11f911925ec674428f8e3e28d896f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/evaluation/eval.sh",
+    "bytes": 8381,
+    "sha256": "c38601a1cfd6e5442fa066e13dd3f9f841e8f3efad70ae2726da41a438c2fd2f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/evaluation/score.py",
+    "bytes": 3422,
+    "sha256": "84acb7d4232c3d0c2a3cfefaa8f9cd22b4d2880808fb8dbcaa544f1c1ac3f857"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design0.v",
+    "bytes": 136406,
+    "sha256": "dd73f00593ee5b044dcf1352bf8a97bbe7a068b9512214e39cd4ff8301054729"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design1.v",
+    "bytes": 69802,
+    "sha256": "ccdfb64479746a5e0a201af109650a7767e536193bfa42b795b315d7a2149551"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design10.v",
+    "bytes": 28751,
+    "sha256": "e58a8b51026bb48abb726981bc64069746620347c89dbd3fa3bb4a8c865e08ea"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design100.v",
+    "bytes": 158875,
+    "sha256": "4827f6f279930caaf128ee1b51c65df325b5dc1bb27c1f998b12d471e0380007"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design101.v",
+    "bytes": 9750,
+    "sha256": "1b1fe3bf14401b4de363b9a4a5bc522097a8dd4deee0c24b1d6779f185ff9de3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design102.v",
+    "bytes": 470652,
+    "sha256": "120a17e2f0adfc78e1f5286e7b45a53a3e3d4fad59c2629e4749a0f3ad142f62"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design103.v",
+    "bytes": 144281,
+    "sha256": "b08efd06ec12e6e7a5efd0cf69805fe4dc26cd25eb6c9e394d7762aef79ba5e5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design104.v",
+    "bytes": 9993,
+    "sha256": "b998c5ee2a00db5e3a9e1f0889bf48cebb50928611164ad302588d2fb268fe41"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design105.v",
+    "bytes": 32169,
+    "sha256": "55f9d404c2ca1fc3aea3cb78f4473a7d57aebac4b15e5e4988390a238022174b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design106.v",
+    "bytes": 69519,
+    "sha256": "40ee026729eea3ab5ed8d96da4d7e1820e1a1d8f3517efdc1a5a920101e417f8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design107.v",
+    "bytes": 9687,
+    "sha256": "153da89c004f64e1bd68ddaf4d1063d6891fe174c18c1e33eacfc639d15ea6af"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design108.v",
+    "bytes": 19197,
+    "sha256": "4b865c8ea76ee27f5ea708ddfbe26967b0762de1ba9cac6b1ef989e8673839c0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design109.v",
+    "bytes": 205404,
+    "sha256": "433bf41537704567a1759ab6c9d8c0deb9e7168469ecc0ab89691437a1d731ec"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design11.v",
+    "bytes": 101023,
+    "sha256": "8119cacf650dea87cf43c98f43f84b55f1f111a80ad5014768d6a84be3b6cd16"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design110.v",
+    "bytes": 212864,
+    "sha256": "14ba95c7aaa8333e4dfc854d7c32f5170138af157262e73890e39a14eb031888"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design111.v",
+    "bytes": 154446,
+    "sha256": "5af36431c53de69c662648050df3a60da276ac147f4f4249ad55ddb8d9431c7c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design112.v",
+    "bytes": 202982,
+    "sha256": "3b3ffbf4a432d46f059b7c59982cb6741b1fb7d6f22363d7a1a79f416070b992"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design113.v",
+    "bytes": 39151,
+    "sha256": "0210539b06cbc30e2654f3600825eeaaeaed040f9f36636274fd920c3af77517"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design114.v",
+    "bytes": 158240,
+    "sha256": "3e0834f841943b42f303bd28e3037eb60ca262b2f318a585267a330082b88ade"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design115.v",
+    "bytes": 155025,
+    "sha256": "5f537c08e095b41e8fb39e650e903deae223c6cd73ccc1071dd2377a851a3c7b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design116.v",
+    "bytes": 233010,
+    "sha256": "79de5e24974f9735ebf120a7013a339baf93072b196ddfafc9786e3a3634c606"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design117.v",
+    "bytes": 12688,
+    "sha256": "cbc1c43b04f44d23fd25a5452d44addc290c7d146fdfd1b71887edcad6eed2a6"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design118.v",
+    "bytes": 17674,
+    "sha256": "8135f5b0a86f29be1cba6bde7ce9bb01626c0364e6f1a68d843bd41bfa4f3383"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design119.v",
+    "bytes": 34877,
+    "sha256": "3c578fea7b9d795630069700897cd2ace8614b5d7c71782c5db4ae908524d139"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design12.v",
+    "bytes": 20151,
+    "sha256": "e1369fc1a9862bc052853fa08acbd543e9ffaef41e35f2856c0bc2af75986d8d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design120.v",
+    "bytes": 503302,
+    "sha256": "b51ebdf29f7cc6df984d0eb8a354e0db9612ee4241e7afb19e2301cd8b44be7e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design121.v",
+    "bytes": 268458,
+    "sha256": "759334b4799e79b3ec2398764c7df648af75dcd56fe57db68acf174a30e06ae1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design122.v",
+    "bytes": 29301,
+    "sha256": "3842252f87a93978d66af3ba9f6e633a017cc01123ade89fd37c182a572ecb8f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design123.v",
+    "bytes": 244379,
+    "sha256": "eff9fbfecca21623e44c6b28d6a4f873ed9b18be346717a45c090753307dd0ac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design124.v",
+    "bytes": 212444,
+    "sha256": "540bf4393b28dbee3152bd0e7ab19cdc90e091ce087345f94cdb63d7aff912be"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design125.v",
+    "bytes": 157691,
+    "sha256": "9b0d830259726f232fe32d4fe68c46d1bd9f8fed5356f980d3fe03c38c3cc4e7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design126.v",
+    "bytes": 46358,
+    "sha256": "8f7d81943b64430e2ac287695a21189cd90e4f5c50e9747eb01ba4209a58943b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design127.v",
+    "bytes": 31465,
+    "sha256": "710277d3c08789241da7fbad8d0e5d06c4c165b0e0ff1bc743626b5aa59f43de"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design128.v",
+    "bytes": 29130,
+    "sha256": "c4bc6c0df30a670669dd721faf631dc3fa14427718ac5d411804a561b6beb979"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design129.v",
+    "bytes": 142078,
+    "sha256": "20f3c3b807e2da584dfb9712dec130bec829b75675be918a70eb68b4fed71d72"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design13.v",
+    "bytes": 24877,
+    "sha256": "c1112a0a9ea5a74ce53e868a858f6d8d1bfd1612e5f85f6a1a77d91a9476b93a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design130.v",
+    "bytes": 215300,
+    "sha256": "5c461cf696a118bbfa65974c00439889856b7d7d09c740d6a750ee9a538f56be"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design131.v",
+    "bytes": 145348,
+    "sha256": "ec0f22187591421a0076e5c22828777f6b83a3864b311748798ac4f98cef8959"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design132.v",
+    "bytes": 292240,
+    "sha256": "53d5f491d2638dbc4650474ec257f73145346eae84c7ad2f46bd3816ef4be411"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design133.v",
+    "bytes": 91641,
+    "sha256": "392084eb94a3a74e2dee6c1b2dc69c4fe0816e9f97424950522a1cb4922bb3ac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design134.v",
+    "bytes": 139810,
+    "sha256": "2f670ef5ab3a497202361f7f00a4f1515e3b146333b546fed968c54a40445b0c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design135.v",
+    "bytes": 272540,
+    "sha256": "17f25a359b41fcebc03ad2dce4a38ba040e71de7ae44b1cfe45310294008a2a3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design136.v",
+    "bytes": 5206,
+    "sha256": "ad37b1b981441d806c988ca704df4e325b95e6de374fcd030840bb9203bd4792"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design137.v",
+    "bytes": 181079,
+    "sha256": "3362b03451896f84e44171094b0b77c944d4f90d2cf762b2f5e490de9e16c086"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design138.v",
+    "bytes": 161596,
+    "sha256": "18b1074c603d34ab5f3a6f6690c58f733c06849d2abb742a1c7067e9febbb386"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design139.v",
+    "bytes": 32250,
+    "sha256": "ec51118afad91beff62c797bceabcc1f1ea33f23b41c70f6a0f967c39168bb23"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design14.v",
+    "bytes": 306143,
+    "sha256": "61f4d8badd394ce07a9326d6cd132f6f8b67e91e46b50f4f8d0c8ca4f5655558"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design140.v",
+    "bytes": 93025,
+    "sha256": "c69698330da18ec155b14c7fb6afa63a19ab1b135774f9a5db332e0411bea4f1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design141.v",
+    "bytes": 21495,
+    "sha256": "4848d997346f8793c8c9f494d90d63309428d4fcc5b776142f8a0ed399276f12"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design142.v",
+    "bytes": 11736,
+    "sha256": "9c607bb0b91ce99e20e78775c9b31b5b3eba551cee1b018cd4cac6163a648976"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design143.v",
+    "bytes": 159979,
+    "sha256": "2274d322ec75fd62156f462b416ce775e5aea3ad748834f694ddd5b5e524ff6e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design144.v",
+    "bytes": 346141,
+    "sha256": "7979835da183a0d858ba882dc2e2cbe84ce094422a1af67f493d3f3a318904e5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design145.v",
+    "bytes": 286552,
+    "sha256": "ad43487c43d4268b49a3417db6fc87697d5571218c4662fee43fabaab416aa0f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design146.v",
+    "bytes": 568089,
+    "sha256": "d5d5de42a26d0908cd103ddceff9dda789a26788329074529ce095b0228f2ad1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design147.v",
+    "bytes": 97667,
+    "sha256": "232b36b6b5c0094f5713dc32c1f48b6e76a921271b5b2848dacc6fa326eddb8f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design148.v",
+    "bytes": 39465,
+    "sha256": "c4190058ad76a31bfacb1a0aaab78061a98f6f2a8e1e3c7889e2e5df814aa11a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design149.v",
+    "bytes": 14611,
+    "sha256": "4a1391a027244c473c292681cfde15703219a42a9cb136335a22d70c916e0e4e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design15.v",
+    "bytes": 23730,
+    "sha256": "02cfb43b85429a1b78f21e91f92781580b8447c10b3c78366a3aa21197952419"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design150.v",
+    "bytes": 232985,
+    "sha256": "a27dcfb6738613949e737ad03561fb51321886456540387320fb419bc941ac10"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design151.v",
+    "bytes": 17695,
+    "sha256": "b3efcb2a6893cdea5c132e936746d6551a655db54909983a2b5884f3089df1b9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design152.v",
+    "bytes": 151271,
+    "sha256": "9b1fca20330a75af4912c64ea89f3b8f246d13f7081b2aade20b05a5bab6e8ac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design153.v",
+    "bytes": 154228,
+    "sha256": "ddd01d0a0dcd3d015680b04f802ebdb45399dc1c6d1c4696664908770c35c429"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design154.v",
+    "bytes": 18884,
+    "sha256": "104c448736fae7b00e21cca2679775145637cb9b63b8574c4206ef30ae68c5c9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design155.v",
+    "bytes": 154510,
+    "sha256": "270f3d4f2e3d01afccf4acd5056604540fdf6f6dd536e8c00bf2ec4196132fbd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design156.v",
+    "bytes": 43508,
+    "sha256": "ea306c43dee123235b4bfd93373a1fcbd61f81abbc1139659c2e2dad6169e278"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design157.v",
+    "bytes": 180769,
+    "sha256": "39f109e4996ad3ad9a737c88da41e4aaef0cdbfd2b541039cf347ec4e4398bda"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design158.v",
+    "bytes": 200759,
+    "sha256": "945bd4dd231ee09386914c0b5679e9359f932e97a890cd2886beff1871d78a4c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design159.v",
+    "bytes": 173098,
+    "sha256": "fd947bb9fcc81a11bf5670dd182e3102d5ad2fd206f0e806c09aadd883570b81"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design16.v",
+    "bytes": 131089,
+    "sha256": "524b7090c536253d02e9226c874e9f2a2298c97ed604fd4d19f9f38d3f2e2a60"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design160.v",
+    "bytes": 39388,
+    "sha256": "4fce7f84c560cfa62319027e97f7c540ea673c353f54690bb7f94f6974ba7866"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design161.v",
+    "bytes": 18686,
+    "sha256": "7950ac84ddc8f2c8f7bf9a8b76734ad0466a4050ffe4aa5645808e2ccb423af5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design162.v",
+    "bytes": 144429,
+    "sha256": "e846f57bc2cef435de2505eb5aa861ec91c5d5ab031253b2451d8b327295c354"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design163.v",
+    "bytes": 254608,
+    "sha256": "4ec7dc1eabd245151f0adb3e35a56a86cffc9bcd7192a759f47c78809460a930"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design164.v",
+    "bytes": 247378,
+    "sha256": "5e6151eb011d95e94a6b497b2da7ff10eaedc59b8e8c59e7eaee95f8b600dc15"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design165.v",
+    "bytes": 12491,
+    "sha256": "76016c49fea461fcb33af5c0f1999888aeea1b7dd4bae951de6937c02e62840e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design166.v",
+    "bytes": 158165,
+    "sha256": "cb20342ca8d0aaf2f2f99ced3dace390416afcef082baed0fa38e4fcd929ecae"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design167.v",
+    "bytes": 5271,
+    "sha256": "ad209b9b55a60f97534289cd0302e44ab419b90b26a9043a0131852debab8d1a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design168.v",
+    "bytes": 212389,
+    "sha256": "96e0279c3686b4ba20b8d59fd7d97e6ed8113b93ff92064ddf44c1e44c2aad30"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design169.v",
+    "bytes": 215275,
+    "sha256": "e7d7bb49518ce8fb620faf85396170ac3a7ef148bac258c16cfa8eae2edebcc2"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design17.v",
+    "bytes": 20969,
+    "sha256": "e8453649ea85a97fcdfe82c3e5c9cddb9469be8b8d44045473f39c77490076ff"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design170.v",
+    "bytes": 166772,
+    "sha256": "f98fcc78ee425a1807d447c186f130cbafddcfbc24092ef03dfcbfd751aeda98"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design171.v",
+    "bytes": 189310,
+    "sha256": "86ebd501b4e4b3a77e62566c128e410cdd8b410ee7b7ad4795f995958d175655"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design172.v",
+    "bytes": 11367,
+    "sha256": "ccdd6b7d0a142d7a56c74cf6f60d8d3ce7c4455daaac41cb82a428c7d7d9129d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design173.v",
+    "bytes": 26846,
+    "sha256": "de9b19ee35a77f78d1fa00f99543202449f37a90a0cdbe9c4ab13cfd1814d1c1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design174.v",
+    "bytes": 489530,
+    "sha256": "8eeac4d4c1b5e868caf2666bfc67dde040368b9322992600a986be54cd2385fc"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design175.v",
+    "bytes": 238443,
+    "sha256": "e723e2ea646bdbba02847bb177d1cecec4fe5b03a2fe1222100bb10ca934f5e5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design176.v",
+    "bytes": 184013,
+    "sha256": "e24208df1ad3e8690e4378f9c70e507fa16bcb23e95c044d2b0d9347f289de8d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design177.v",
+    "bytes": 174678,
+    "sha256": "83be2084a5503cc952802eae769b7a196f0726bb26bf15d24aa1942ebd9dab18"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design178.v",
+    "bytes": 11676,
+    "sha256": "f083ab121781a9a64a6de18f108a021ba342229b0dcd20f352540a6a9b1ed7d3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design179.v",
+    "bytes": 98678,
+    "sha256": "3e8663fda705b8621fbbd944c83511a8876bd9d9af81efb9b6aaad7f7b8abcaf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design18.v",
+    "bytes": 10068,
+    "sha256": "c53e1b72281ee7a720cb473ec14dd7fa3d53b389115ad9435a127a47766596a9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design180.v",
+    "bytes": 137170,
+    "sha256": "0c883922034211b3ba10bdd668b8e81ec3b4e4c4881bf486396f638c27a1fb08"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design181.v",
+    "bytes": 224926,
+    "sha256": "f257c4f97e544db2aee73fd4d9ec95202a04976f2c6c5692b9dccd35ec7678ac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design182.v",
+    "bytes": 161861,
+    "sha256": "b3f1de2e4e945d93d435acf43dcbfaf24fbc42ac396ce88ee59f18e7a2ad43b7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design183.v",
+    "bytes": 29993,
+    "sha256": "2d2194033265d7b58a6ec068ed1d4162ea0d63de46099b3bcaf0c28f10dafc97"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design184.v",
+    "bytes": 32725,
+    "sha256": "f71e6f8b070f85b023db69a82e105b2e3d95d31bd7b15157c93f8c2fb1058473"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design185.v",
+    "bytes": 497093,
+    "sha256": "4d18900de6878b649502bc9864ad3fb6571b85697bee103e03906d78b7e4f325"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design186.v",
+    "bytes": 35619,
+    "sha256": "f44f473957859edc571a9c3e4d404acb73f2bc5eaf83ae83bf58df849aea3d4a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design187.v",
+    "bytes": 163819,
+    "sha256": "5e10d23991198ea62d5edca316c5947eac89d41ab16e8039bbb69fedfacb8ef4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design188.v",
+    "bytes": 41778,
+    "sha256": "0bc3746b2214bb5099cd1d31d1bfae0e2608eddd282fa794515240505b9ddf5f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design189.v",
+    "bytes": 29242,
+    "sha256": "9de89c6a1d080e75c6e6a7701017b3cfc5ef520b5089fc64367dab0917883ce1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design19.v",
+    "bytes": 116848,
+    "sha256": "ae68f12f7ff56d7b95bd6227c40bd7e5a21e01cb2a05c9851b9547b5dda919e6"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design190.v",
+    "bytes": 166794,
+    "sha256": "b0e52b57f968b20e938b047e01f4256552d64b19e529b22015e01bbfbcf446b7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design191.v",
+    "bytes": 31360,
+    "sha256": "c933fb18c8ba7883bbbd73d58e78e0222ae1c65741c5d109ad36526d0355741d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design192.v",
+    "bytes": 15833,
+    "sha256": "b660b464ca9052a9e138eddf07c601c2b3c6766d07edaf5be9c9a074d388340d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design193.v",
+    "bytes": 559186,
+    "sha256": "615f06b8d921e7accd0cadc095da66e2cb9bf165df76493f26166534506402d3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design194.v",
+    "bytes": 9337,
+    "sha256": "e5c85cdedba20a4679c71a59c0eda45c12bef37e65d71891c199827b1889ef99"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design195.v",
+    "bytes": 265613,
+    "sha256": "e71d2d0e43491c7ae7ab87192bb70ec0101c6cf7bf07fc02d2e38e6f6ecd9677"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design196.v",
+    "bytes": 143197,
+    "sha256": "c3841236bb21b669571c69f48a32dd83a36ca86f8c93f215dd9d78bdf6e2d3e4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design197.v",
+    "bytes": 30281,
+    "sha256": "a92af9c31fe114cd17ddb37b680b66fae0739fa45ec7ad5fd157bf725a37cc39"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design198.v",
+    "bytes": 481396,
+    "sha256": "b42304207a494c55cdf40a9e413fb15b14dc87fa68e54d46ef62ca6c5d4f7029"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design199.v",
+    "bytes": 172808,
+    "sha256": "5ae77fc22b736bbd180d30d0073d88efb1ae3a89a9f24e11d04d90aae8954b30"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design2.v",
+    "bytes": 13669,
+    "sha256": "22068cde7faab43125dc9766940f912e35c1d87162fd27e79c684dea8709c0ac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design20.v",
+    "bytes": 129072,
+    "sha256": "8beae698dc928128dea8a9db2d0f1cfa25c435320e5caa2c82fbec90adc4f747"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design200.v",
+    "bytes": 151888,
+    "sha256": "121f858f7c7a6147e39cea1b3cc9e45eda2109e6c1c7c1cc7703930b3090e355"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design201.v",
+    "bytes": 14953,
+    "sha256": "8de7d3c7d89607a0a0ea60fb15470624ae147a2668c31f473079969b3fa3edf3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design202.v",
+    "bytes": 39463,
+    "sha256": "615f615880f3bd1cdef6e3628040af9edbbaa37918c7faada452e6a0e886715e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design203.v",
+    "bytes": 5098,
+    "sha256": "8584c1b810d87f56dc5b069816821679b4faa432bd5060098dff00c08e7b448d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design204.v",
+    "bytes": 27385,
+    "sha256": "b5764fd1b0bd5dc9beeb456fac438f8697a4026b9a592a54555e37d1f401ce84"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design205.v",
+    "bytes": 5286,
+    "sha256": "a6ba7387758102b6687e1f446fbf82676d6a374ae7ed979a56850dafc8e369b4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design206.v",
+    "bytes": 186909,
+    "sha256": "563891e51bdcf0aab290b3b7da121395a48740d9e62de5a48ca7d9fd7bb1220f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design207.v",
+    "bytes": 27199,
+    "sha256": "4613d176a266a738036fc9593d26a452fbcaa2aa8fafd9c4b0f55cb05b235579"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design208.v",
+    "bytes": 34408,
+    "sha256": "010d53cb4d17b5134962257487a13b2a584d45e84a574a82e775c84fc20d50f9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design209.v",
+    "bytes": 39311,
+    "sha256": "3dbf8cea71c348413ea10fb28474c5cd268291946d7978f8caa9037f3833b195"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design21.v",
+    "bytes": 190235,
+    "sha256": "68623f1a2011217fe11448f4b5f8e9c5e8138552ab297a9dd4ece6df32feb189"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design210.v",
+    "bytes": 145417,
+    "sha256": "7bd5359589ea40209a213022bb145b4109f704de1bd10c87f22630eaafcbb7a1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design211.v",
+    "bytes": 31721,
+    "sha256": "f7dda8453c3823bb4cfaa65319057f8b852c593806d78264324561d37d7bbed6"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design212.v",
+    "bytes": 30225,
+    "sha256": "5dbe29d1a5ee2fc0bd26b65be397c9c8c2948bd188ac7dacd335125ea5d60b4a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design213.v",
+    "bytes": 191614,
+    "sha256": "fd1b3dde68d286dd015a923c3c481cd14db8cb70136efed5b02523bf26c39d19"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design214.v",
+    "bytes": 174632,
+    "sha256": "5de61877b4600b29e94b12891a56af229ed292f4279e4654a135a1090cca6f87"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design215.v",
+    "bytes": 35692,
+    "sha256": "1431df7027b74f15296c7b6841e6d81a28949dcf51c99d3737ea4caa27e1c0d7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design216.v",
+    "bytes": 159765,
+    "sha256": "298cbd033ccfa8f22d8f1e60dd1907fc6277fbac289e0a2196e0f2b6e6b47ef1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design217.v",
+    "bytes": 94503,
+    "sha256": "ce4b42611571ed2c4a4806e136c674c81b701f246c97163975bba674c8eb0102"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design218.v",
+    "bytes": 33762,
+    "sha256": "3a5b282cd47384e8cc996ce53563d7341c83a5959755b7bc48d6541f5d8283e7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design219.v",
+    "bytes": 9411,
+    "sha256": "a7fa1d8747a6dc3b3e0839a3ee58a1127928da4abdfa043ef35f144ab8a14b64"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design22.v",
+    "bytes": 6054,
+    "sha256": "7c4c571e4f54ae59ef5f7462a02ef434fb1e55f91cded545b82895ee5cb76d5e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design220.v",
+    "bytes": 155326,
+    "sha256": "80bee1e180f040de51934d6a789724098b755fab2eb91896b41545dfa9da55ae"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design221.v",
+    "bytes": 172358,
+    "sha256": "3fbb3eb364646955bb55d06b84509e6b505f1527fd2e010d83427cc198e7b2c3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design222.v",
+    "bytes": 30222,
+    "sha256": "89cbdabc788e98153401f780de3f72bb3a76f9f2b4a4bad4a124f4b445ffd011"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design223.v",
+    "bytes": 16633,
+    "sha256": "052f98afe3efd362993fc7f68a5bf089d7268e41f23a50ca710e375bb6c3832d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design224.v",
+    "bytes": 154528,
+    "sha256": "d5fa7c5503f969ac94c030694885d53c764a9a5dbc2b0d78a4e516e80ef2ba12"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design225.v",
+    "bytes": 4867,
+    "sha256": "bc174867f3aee359df3cd37e6adc27f48c76d170e89b0cdc9547c1c4e957525b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design226.v",
+    "bytes": 33221,
+    "sha256": "48c2472191aca41b59edd51dff9068fc6a7437eae2cfc8462cec60e324124bcb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design227.v",
+    "bytes": 26897,
+    "sha256": "eb571faf87bc4b8774f5e0aab62f930207f10c140fa5e6250779871910bab197"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design228.v",
+    "bytes": 279448,
+    "sha256": "fdfedf3b0e1adceaf0aab950dadba335f04ba6629bf22ba40f15bbad4fe8414b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design229.v",
+    "bytes": 131436,
+    "sha256": "38a40be2603ee8e886b5da69eec414d14c155844c79e7c752c3a7d292173dffb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design23.v",
+    "bytes": 119883,
+    "sha256": "5009076b543cafc4755f8e711bfcce99b65a15f76a3383a276bc55f57a8f8e5d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design230.v",
+    "bytes": 89230,
+    "sha256": "66c7d7104f471608c2c911feeacd61fddec7c24f22b6655216a192ecfab2528a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design231.v",
+    "bytes": 217100,
+    "sha256": "d74e1539bc611a5371ac79d6d59bfc5e9c52fab21ebf096304c54d8033b3f228"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design232.v",
+    "bytes": 164304,
+    "sha256": "abdb448dd2ca5dd55b8a3e900efde701197aea159b3cfac64fcb07e49eddf2bf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design233.v",
+    "bytes": 93099,
+    "sha256": "03cacd9a93af87cbbef6861723354f19c9dab5c12c64f55b23b43d416b6813e3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design234.v",
+    "bytes": 16404,
+    "sha256": "b71c0e78e6d06685632aabe525b7f3a1dcc5af9735087245dc5f0f12ac0af981"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design235.v",
+    "bytes": 50248,
+    "sha256": "e4edf60779ec60393fae02b7b263257264ea79b40688ad4fc26f691661be53de"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design236.v",
+    "bytes": 158592,
+    "sha256": "acc4290158dfde10d6fce4e0fa18df3347e1902e2e40d18fbfaa76e7eedc02d1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design237.v",
+    "bytes": 145936,
+    "sha256": "f9216c7378f5097788aa62c5306105374ce674e1e38a0b0f7b483e9282502b5e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design238.v",
+    "bytes": 41495,
+    "sha256": "5cae343c180a304598037786239efd66d0b8a73040b62510e0ab421c0cc74785"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design239.v",
+    "bytes": 110211,
+    "sha256": "a6c0efdd385d5aa5779e65ad03fee9e8c0daee55996b628a81be110b0f621614"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design24.v",
+    "bytes": 21859,
+    "sha256": "27dc034ce444c34792658f7242a0be1d83b17b023ac121ebf5321b82365e7f9c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design240.v",
+    "bytes": 31504,
+    "sha256": "eb7cf2c7780152599071a6afa173a7a661fa988fb40fefb3672331ebd28cf1f1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design241.v",
+    "bytes": 149819,
+    "sha256": "6c83af79fb03352ac04a5d9b3f987f5641355a9182cf01f8bac1ab60350e78f8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design242.v",
+    "bytes": 27248,
+    "sha256": "c29610a12a44a88c3c84f30d9280ac26c23908720feb48d01c23f1461eae70ba"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design243.v",
+    "bytes": 40101,
+    "sha256": "f27dbe23018282b8abe961e989debb21da5276e409a7b0af8525f6e7cb39f443"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design244.v",
+    "bytes": 32379,
+    "sha256": "4f3c8707890c8fc5802abec0336889652a59c050f870aea48b7bc110a86b4264"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design245.v",
+    "bytes": 29890,
+    "sha256": "b5a8fe1860640b1ee22999946f754de536f8b2e9cc72bc124c6b7344fa0ae4ab"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design246.v",
+    "bytes": 144844,
+    "sha256": "d30d8cf143351bbb993d819a5545d52afdd78c934a10abc686c71e6e9b997b72"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design247.v",
+    "bytes": 168123,
+    "sha256": "e3bc2f8b0b6390283ba520f48b25e2fa483ee2dfaff0f8cea8ded18cee85e88d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design248.v",
+    "bytes": 32865,
+    "sha256": "e5ea5a2e9725d731bf86605bddc0298de5f190055e21a3afdef2eb4b9d424c65"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design249.v",
+    "bytes": 249393,
+    "sha256": "206403973d79584574de069306404bdab73a7bd94f39bff9e4a6ec64ec3050ce"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design25.v",
+    "bytes": 10490,
+    "sha256": "0baae20b42596ea8d22075b566ad4fb016434a188081b9fa20ef232e0bed8bcf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design250.v",
+    "bytes": 134214,
+    "sha256": "e7611773772e0db9f7f36de7f90afdf857f79e2d16a6d65ccfcfb968df2df5eb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design251.v",
+    "bytes": 131209,
+    "sha256": "83a93a44e2a7c3d5f92fafb2bb49fc8e9af7098fa8d6bf21d567cafcf5be44c7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design252.v",
+    "bytes": 17425,
+    "sha256": "63a60deec4ccb0346f68d4793afe4fdb1235c0f54125f99bdeca869b38b79824"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design253.v",
+    "bytes": 27845,
+    "sha256": "d05427938d763d06ce7f20d74ecc3fc69eddbfd97a1f2f282ec27f97da58b254"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design254.v",
+    "bytes": 156038,
+    "sha256": "0b6c17407af872bd09da1311e9592817b25737f8af94255ba3bbceadf1929781"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design255.v",
+    "bytes": 35558,
+    "sha256": "8dd26f4be2c92aeac2e0ecaf389a9edd3e8ded3d7cdcd2770e46c65bd3e0e79a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design256.v",
+    "bytes": 158173,
+    "sha256": "91baad33a6a825b76fb37acb277987ca3798784b6a2cf7ca3bf15cff46c155b8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design257.v",
+    "bytes": 273269,
+    "sha256": "a1d5b14de7183f72d5d27ea8f42228b9ab5f2636e9e5825bd5c8882f5b17603b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design258.v",
+    "bytes": 35830,
+    "sha256": "47771b71e4186ba17639096e6a7bbfaaf86080ce9d2f0ffad0854291dae541bb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design259.v",
+    "bytes": 145231,
+    "sha256": "e801b2f43b5366f966df424f59a9250f9e814eb18eb6a0ca7bfa8164d9ec49cd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design26.v",
+    "bytes": 104421,
+    "sha256": "e28ea8d35b57b4315dd07ea1bc8f0631f2c78c877496b75d2fe4b5aa04e86fab"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design260.v",
+    "bytes": 87585,
+    "sha256": "4d745157c7ca4aa1c851947cacc6141836c0efe3f4988e63c2742395593192b3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design261.v",
+    "bytes": 14727,
+    "sha256": "3741261e44dbc31c170a7293b7bb8b0aa119fc69e2305951755a5988f35ffd88"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design262.v",
+    "bytes": 186268,
+    "sha256": "777ab6476c1d7bcbf7fd6556d2ca39221795efcd83250aa0826130672841067b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design263.v",
+    "bytes": 199375,
+    "sha256": "0e102f89d9bc0eb8892b41e558852295951de7a6efad893f18fa9529706c6ac8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design264.v",
+    "bytes": 45281,
+    "sha256": "1bb5bd622c2adccfaa918acec2a2d793bf288d7b685b72c1045283db6c24ea11"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design265.v",
+    "bytes": 475810,
+    "sha256": "11c96bbd6d833a694c2c0881df90dc9153fe302e7f61042ce3d1349b612bed82"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design266.v",
+    "bytes": 137846,
+    "sha256": "659373ad3ee21bb92db09ffce493756825bc2a056412ac9a39a69d604f2b12b2"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design267.v",
+    "bytes": 162312,
+    "sha256": "f93610246931d599c7a66f211c3068127c13825bfb6d4ca280ddd4b7a1c74147"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design268.v",
+    "bytes": 272669,
+    "sha256": "d6c54341ad8412f4c3ebdbcbdaa909a3c7916a0b388e7b16ce1fe346f38109bd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design269.v",
+    "bytes": 174757,
+    "sha256": "6ea56f72e0a86e6c564a405ba54285b6c187269369ec7d01a684ff82a4aba639"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design27.v",
+    "bytes": 113389,
+    "sha256": "d7f23b6c6bfde7a47058053b63f50c3e96e1ffe9114680d152a6d38530d2c6df"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design28.v",
+    "bytes": 319437,
+    "sha256": "d6aa4bd705410fb246e655c367c3d409248c0ea187ff1e3c6c6c64ab029f854d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design29.v",
+    "bytes": 93460,
+    "sha256": "c88b44a69c5e2d9bd1731b7eaf07b59d1d1913897a0269892cf06e4fb8bcf520"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design3.v",
+    "bytes": 64328,
+    "sha256": "b9091478e67ac3b219487319f51c7ffd14f04b54074a034b42fa774dfed86019"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design30.v",
+    "bytes": 15321,
+    "sha256": "c59ff03c325e5577f3f65deeee10f2ef677225685a627bdfd8df6cff6de8c37b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design31.v",
+    "bytes": 30489,
+    "sha256": "bfe3109618ec50f8c82bd6fcf8902a4cd32ad661683a09a2042a9017e0ab7a52"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design32.v",
+    "bytes": 38714,
+    "sha256": "4483e287b9a8c48378469738a8d93878433965790e535dcb6abfa33f8274dd39"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design33.v",
+    "bytes": 29341,
+    "sha256": "93934c514c9b31d7aef77a716cce7b1fef92b77d23ce4d9891e2df8b8fbbfa68"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design34.v",
+    "bytes": 72101,
+    "sha256": "df964356b26db71579216dfd305d135cd99b851b6e53b0216d6e41522d392a2a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design35.v",
+    "bytes": 62959,
+    "sha256": "ae5585c3ac488ecf6a5263ce26677e518590d6982f917d9033ce763addb4e5b0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design36.v",
+    "bytes": 72101,
+    "sha256": "b19cc214985756abfb7c61a1f19ea3995781626e3eb74fadebab147da4c780f9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design37.v",
+    "bytes": 57076,
+    "sha256": "2eade9ad23ef7d5a3732cd46ba873718b1dfcac5a6e9f9dfc173aa07d4746d8e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design38.v",
+    "bytes": 64062,
+    "sha256": "4cd684ef22b92b0e6aafd7062902844f7cd0ecb1df08c82c31ba1714c6c428f1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design39.v",
+    "bytes": 64043,
+    "sha256": "c6de2b9dc9bd5f35d2adab64256951b54e0c01a01249d25a89b35a5c29ac7550"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design4.v",
+    "bytes": 135409,
+    "sha256": "bebf2014dc858f773f4aa7f530b0c4ede60dfca4d19803f8abc49f0bd2420dca"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design40.v",
+    "bytes": 56231,
+    "sha256": "a753f82e054ad55ef9588a89950d4b5e3c2a7303377d7a4d32c31798060d8086"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design41.v",
+    "bytes": 56231,
+    "sha256": "151fa8624eed95ff816412dc6e47c708de7b8805aaa38f6ea006ae3dba28fe8d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design42.v",
+    "bytes": 58040,
+    "sha256": "34d2735c9c31ec2e8f280efeecf2fbc845282c474d2bf53a81e73e0bd80ce966"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design43.v",
+    "bytes": 58040,
+    "sha256": "a467bb0e5d99a3efba9c620e887f95f729f144517e4e432dc4d2b2c65ce7e9a4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design44.v",
+    "bytes": 58909,
+    "sha256": "dcf2a5cf4394d8bfe5f77d7963d268dbaf30f805a69c309fb45f4170f064ea86"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design45.v",
+    "bytes": 58909,
+    "sha256": "5e12fd06a2bed9603887fe9fa63e87bc6276ba67d07d10b269fb589474acc462"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design46.v",
+    "bytes": 277619,
+    "sha256": "079ec052e3dcce593505b9f7e53b31bead23fcdf5c7d0885c9c56da591e6c8ae"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design47.v",
+    "bytes": 277619,
+    "sha256": "e05a35083f4e0e7e97d711b1f3f4fe9bea2b3ace8011ed2e69681efe6b78baf7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design48.v",
+    "bytes": 143081,
+    "sha256": "96424b574dba86fcb7abfb67a6f2dc4c8f90b1055ca4845f1f80e508231dd2ac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design49.v",
+    "bytes": 143081,
+    "sha256": "86cbc394be85931bddd13e974f0268f34b23a9f313fc34fe72e48a3111d4bd54"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design5.v",
+    "bytes": 33163,
+    "sha256": "6f22f0f0e10ca3a07a3ee3d28fa95995dbe7673e36b509335405796eb23bf7c0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design50.v",
+    "bytes": 143000,
+    "sha256": "4bd5dd0b1a8b626afbe48a653aa3cdbbc99414977e371ecf3ee7aa984fb0c22a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design51.v",
+    "bytes": 67948,
+    "sha256": "de6e6ae805873e9a991a35c8b7affaa65fab75082d7db2019d05845e0ac1cfbe"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design52.v",
+    "bytes": 16159,
+    "sha256": "7dea7cf43f9e41d9ee19e4d4aa46fd8872854f04bd8cdf91586fb3415c49328b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design53.v",
+    "bytes": 63057,
+    "sha256": "7f1b4c4d102edf0d3d87dc3f4bdc111809b5a746e79a878ce89d1cacfb3e9554"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design54.v",
+    "bytes": 144212,
+    "sha256": "780664cf2b7c19d6efd3cff334394e89d4bfdfb49ffbaa65d60781c9681037cf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design55.v",
+    "bytes": 30101,
+    "sha256": "64d5584fc955b8c107855c77d49f6551046c2b7915a3aaf65607133a8e35dd88"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design56.v",
+    "bytes": 100771,
+    "sha256": "056931891f28ff9c9fc89d038133fdba5936156e0813b155e723604bcdc4ea90"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design57.v",
+    "bytes": 117293,
+    "sha256": "895db0c21171176561e32852e1f9abb12e2b664445a00158795dfdff6cc5ec2f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design58.v",
+    "bytes": 2822,
+    "sha256": "97e49ef7d7b8226c1bd6797710fe818fd1ad4d2eff503bb901f6032b5f5caed9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design59.v",
+    "bytes": 198756,
+    "sha256": "0bf42f89cb8bc5dc2e0379ada8712728daf77623815373fd49caa460f1dff90d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design6.v",
+    "bytes": 120262,
+    "sha256": "ff92e5a9fbb743649ac2af63c820f805a08ee81d93bc5fa5a367bf396835a21f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design60.v",
+    "bytes": 28534,
+    "sha256": "af5d719382a792d955570c525302517e757e06f2b3c1ef26ae6d28258a92e802"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design61.v",
+    "bytes": 99778,
+    "sha256": "dc792e7190e0280fd5f769359948b8e92ab98e6329cfd9b496f15eae11194e17"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design62.v",
+    "bytes": 20378,
+    "sha256": "43d0420722757b64a38ed05217f930903fb6f0a3987e9773cf7bb57065674d2a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design63.v",
+    "bytes": 22367,
+    "sha256": "c6ba6c337e5d506c6f7d79bb699e93870aaa8a483c7df03c4f8bfcc34cd25e79"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design64.v",
+    "bytes": 293306,
+    "sha256": "747c3d60603d6e4e1d06fca708aecd2a6d21f230eaf85888b1dbd2b95c734d32"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design65.v",
+    "bytes": 22229,
+    "sha256": "df76a7a99dfc5f157ffdbb85f012ee1793a6fb5bd018808ba996777e3285ea6b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design66.v",
+    "bytes": 131331,
+    "sha256": "61bf5df3413b51ca2b97676ff593bb24864076d6d28d75c23787f2aa9ef47d04"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design67.v",
+    "bytes": 19016,
+    "sha256": "8ba0cc6c269c60d600de1be37410741e23decd8e934dc2dc762631dfc516ddcb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design68.v",
+    "bytes": 7493,
+    "sha256": "2bc1f7f0709dbbc3a5e0b1b4388c75514c41c96549a98ab4f2ea58cabfe75c8d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design69.v",
+    "bytes": 110690,
+    "sha256": "a5602fe703fd501974e7ba1950a43ec4df915307f5b013e6d219c4bf145cefa9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design7.v",
+    "bytes": 113983,
+    "sha256": "795ed89b14b6cd3eabd0419ff23a5dd5b23953cc216c2c4de7babed3899cd993"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design70.v",
+    "bytes": 67738,
+    "sha256": "d3c2292a3e1d7c602803e5bebbc8a18698fc15ff8c834d4e7514784e3a6d6095"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design71.v",
+    "bytes": 18718,
+    "sha256": "d7895ad1cdabe99de684dec9a444db279b3c2d4ff7f1e1b98ee08adabe1806ac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design72.v",
+    "bytes": 380827,
+    "sha256": "09ed62cc9140b8c370711adadd58e2585beeba730ddb07978dac8f6dcdf61547"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design73.v",
+    "bytes": 60895,
+    "sha256": "3c8d36e9e49134ee0206284d9217f85ede1dbfe15e8b968f55ec9832ab4af627"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design74.v",
+    "bytes": 243145,
+    "sha256": "f4c5c929bf4c4c8c08267e9b2b5818451a4199eb1e17d5e4baf2d733c3b582e5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design75.v",
+    "bytes": 155788,
+    "sha256": "5a3cc1355cd8bd27499bdaff037b05b1d373d4a19969858c7223a599fbce5940"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design76.v",
+    "bytes": 6804,
+    "sha256": "776183bf082076aad21d56a5ef1a375e3bb7e02063e726e1e90e9dd955e548ce"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design77.v",
+    "bytes": 25187,
+    "sha256": "66d7fbdbfb86135a76a7c721613807a67734e311147eb238505f0c47c7e96a7e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design78.v",
+    "bytes": 108649,
+    "sha256": "e6f9ad38d7056c587355e43e66f0775c3cbfb507064809e975447d0751b40324"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design79.v",
+    "bytes": 86699,
+    "sha256": "4cff8ad69377579648c62597bc1f135fe507ed7fc1982189fb0670f0f2a434d9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design8.v",
+    "bytes": 3145,
+    "sha256": "4684daeba2231123713fb8d86b85df4b658d15ecb76c49fffd5c7820cbd482cb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design80.v",
+    "bytes": 115069,
+    "sha256": "bd893178bdde39cd1191578a6987842749abc9ac9695b4cc7cec5a71b6b5bda5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design81.v",
+    "bytes": 192106,
+    "sha256": "054e25c9b5493da40532f49fb77ba902111bbec46b6d4e563f6ad0f04bdbd93d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design82.v",
+    "bytes": 6191,
+    "sha256": "b85f9dba6a082ca6fbde6f40e686d00d32d292c398cdd6f2d2388828c814ed52"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design83.v",
+    "bytes": 118481,
+    "sha256": "8e07e28f2bfab52b53b35172576f2e08cb26c663a08bee2f53f0b0b471a86ef9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design84.v",
+    "bytes": 20133,
+    "sha256": "901a25ccd7750784024286f1e35fcc82475d01e85891b7e78a1827aa51b6fc27"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design85.v",
+    "bytes": 9471,
+    "sha256": "22f1a99384cdc3fbdc69673e66eda89c795080bda5fec29f4c6ab607ce899170"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design86.v",
+    "bytes": 108331,
+    "sha256": "1da7d3d071231df3cae537f45e5a4efbda221ee153bebd078162b5845d02ccb6"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design87.v",
+    "bytes": 120261,
+    "sha256": "82d3b0f4e4ac2e8f536a539c721fb2f3c0d629bc61e27e01d3eb83033de621ef"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design88.v",
+    "bytes": 305811,
+    "sha256": "0d249a4abc546913e553346035c0834e2e186a8c145dcdca6936c22c16fc275a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design89.v",
+    "bytes": 100207,
+    "sha256": "21f0acfa9493a28982a135622f77a64f958ca662de36a05ce0b32cae1d3a84fb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design9.v",
+    "bytes": 189529,
+    "sha256": "9adad1c1c31e4006c9250388a4c96ebd84919a95a101315b7605e07b1744af48"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design90.v",
+    "bytes": 16534,
+    "sha256": "e5a5ba989e372c30b13ba93867d2cbf2a3eeeac6c90c5ad0341b22dd49f44281"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design91.v",
+    "bytes": 185053,
+    "sha256": "e5d9d424e9c58d86d23edd21d91c69486a0463c7a482e8a74d1bfab6c827ae77"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design92.v",
+    "bytes": 16517,
+    "sha256": "d18803500927d618926df720e32d83b634e59a2c2ddd583d57eb15b443d61d75"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design93.v",
+    "bytes": 418306,
+    "sha256": "639370894660a7a34279279c46f5d2668b4509c0ff666ac20dc5bb5845e6abb4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design94.v",
+    "bytes": 166834,
+    "sha256": "cb2a4aa76b2b7bfe5387273a5b02144a94422e35ab085f1a8962ec8516f4bdde"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design95.v",
+    "bytes": 35496,
+    "sha256": "b9953587560c6835daceeb70c9831e499761617222aee8712c9e70d2d29efc34"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design96.v",
+    "bytes": 172255,
+    "sha256": "fe9aabaac1e10b3c4753da534134d4c2a8a3c68db611e1ad91d935bcca210bcc"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design97.v",
+    "bytes": 37403,
+    "sha256": "b91d9390058b72a8effbc4334aa627d272a8f459b834f31ef73e6ee35b566ef0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design98.v",
+    "bytes": 15691,
+    "sha256": "fd95add1bcb530fbe903140ece2d1d22a4717c07a8d6cbbd1bf83a8786ec1a5c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/design99.v",
+    "bytes": 34487,
+    "sha256": "5fe5c35dbe185f5812cd2d047c141f4f2ef8cf961a7425197c402b4d3bb08a50"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result0.txt",
+    "bytes": 441,
+    "sha256": "a8af3be9bf41f4131e0f7c8656d2e936900ceaee4c382af3a8ffd789071335fa"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result1.txt",
+    "bytes": 172,
+    "sha256": "88c03517325a398d43be9a2781c303b74a22168b3385a45b7c1dbc70443d40b7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result10.txt",
+    "bytes": 162,
+    "sha256": "56d75d6092b4259ba149ef53ab7458b5d05fe8eb3063a74ff34f952e4cc1627c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result100.txt",
+    "bytes": 461,
+    "sha256": "0730a1d02771dd1e68ba54f52e6551a6cff205c05722a27315420b67234dba64"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result101.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result102.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result103.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result104.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result105.txt",
+    "bytes": 360,
+    "sha256": "885acc63c501e07f2c41ed8a7247ececedde5e929953d713fa0a2f6cd97e5cb5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result106.txt",
+    "bytes": 309,
+    "sha256": "10bcc208ebc4ab778710432e7f636e29277db61fc1bde56ea4b9b212951db308"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result107.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result108.txt",
+    "bytes": 181,
+    "sha256": "78b37243158dca238123e29534e83865ed972818d66e683fe95a6831059b7fde"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result109.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result11.txt",
+    "bytes": 269,
+    "sha256": "145fb826ff13845f5a6a50985857d1d4f634a8604542fd51658f9da419aaceb9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result110.txt",
+    "bytes": 204,
+    "sha256": "5f9a1b285b89e0fab7839de3d7f362afdd4e74c23437a5f3e639abefe477b2f0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result111.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result112.txt",
+    "bytes": 205,
+    "sha256": "da6901d70d5731211c8491c11252dcab365bc11ad41fa07e5fe0c88e9d2a8ba2"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result113.txt",
+    "bytes": 148,
+    "sha256": "ec4c879dba65d34d69b4cfca558053cccff667822e4918f54b9a1672b28c34cf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result114.txt",
+    "bytes": 464,
+    "sha256": "3f82079cc5e26199d06b348213c4287c2af2b520e29dbc868a0a25c6a5e11850"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result115.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result116.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result117.txt",
+    "bytes": 271,
+    "sha256": "24838169927d3f887bc2a45c467e0821c1be891766ee29a8e909d0b41a0426a6"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result118.txt",
+    "bytes": 173,
+    "sha256": "3f9301ebc6621fdab1451b835f3e5f4d86cc2167e8f75e91ca7379887cfc935b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result119.txt",
+    "bytes": 367,
+    "sha256": "3e1e162a616c6c517f4a7ee020433bd46b38f0656b3e376f2b77fd9b48796a08"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result12.txt",
+    "bytes": 285,
+    "sha256": "5203f1377c5f1f59f1e9911e9c6a2434a795359b615e10e4d47605afc1fdc8ea"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result120.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result121.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result122.txt",
+    "bytes": 274,
+    "sha256": "af33278ac7ff1765e3d9fc9f2118e4b9f373a60c67755d9bd02559c1dfb0fa4c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result123.txt",
+    "bytes": 423,
+    "sha256": "78ba9b7603ee5bbb8e975db7a23df53c0ae695b0707254b07aed9c3a7d287a37"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result124.txt",
+    "bytes": 202,
+    "sha256": "0ab698d74db8c2780f45755b11da3ba902ef282c2a054c5dde20c5e825fd82fc"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result125.txt",
+    "bytes": 521,
+    "sha256": "ac098b142d11052d7e59cefc938f4c4e83dca1a88ba49d5aaefbcb077e84668b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result126.txt",
+    "bytes": 982,
+    "sha256": "1b67b45416b8ee25c4858530f9e5092599a14e49d0dc562ad8df2b8f23ececab"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result127.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result128.txt",
+    "bytes": 130,
+    "sha256": "96cff58b548729e8fadd740699d8ad37d5d905850e3edd3c8c5867d67646a1c8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result129.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result13.txt",
+    "bytes": 375,
+    "sha256": "fa74c9a331ea0dee9581544d54ff92ddad39a603931bd67edddf8844b2fea274"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result130.txt",
+    "bytes": 205,
+    "sha256": "2ad89fb369e5afa9bc5c1d876198ee4766c4fe8db9689ec07493099e7aadb6fa"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result131.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result132.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result133.txt",
+    "bytes": 172,
+    "sha256": "f63a2e6a2df49bb9784b489d317b1c94522b02e76335726d19d7ad62f0796cb4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result134.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result135.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result136.txt",
+    "bytes": 197,
+    "sha256": "e3c050e21c685b869be306d33ec23404423c0ce4a93a82129a154c52d43d4cb4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result137.txt",
+    "bytes": 631,
+    "sha256": "83becb1d422a1a67ff0de93655b9f84a489f29514f3d64996cfeef41e7860422"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result138.txt",
+    "bytes": 495,
+    "sha256": "1f933b94bb054ca7fb6db3412a9d8ed45d510c2315c76b15eb9b753eeee223fd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result139.txt",
+    "bytes": 578,
+    "sha256": "6e830d1cb0a8ba1339b31fe0483efc64a0048cd812d555aef0ab4bd62eb3cc9b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result14.txt",
+    "bytes": 29986,
+    "sha256": "8b91d2c683924c09c43998d4b7d9836845c0711cfc71733e568af76caecbe1b0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result140.txt",
+    "bytes": 163,
+    "sha256": "4da39ee6f84c07df0f989a1fbfd7824e59706642e7dde40efe5d4cbc58805c94"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result141.txt",
+    "bytes": 164,
+    "sha256": "84ea5e7dec202e9e92794d32f684b294e2e5177dd8a808609a1711dd63203ebf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result142.txt",
+    "bytes": 225,
+    "sha256": "a413c5f41b6b069b8995b2834b45829b348a1a3263ec2175a4a71b61e2684af1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result143.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result144.txt",
+    "bytes": 206,
+    "sha256": "534b64cffe638c0f2d78477b8bef86e11103ac7ebe440ac47e4011ff7e992f3f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result145.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result146.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result147.txt",
+    "bytes": 129,
+    "sha256": "56c49061bb83745b299f34016d433dadd9b3b0ab323713b1664cb59f24c36c73"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result148.txt",
+    "bytes": 149,
+    "sha256": "95c033a736bd47266ca6887cd59fa3fce82454929a32545ec06afc3567f2e52b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result149.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result15.txt",
+    "bytes": 644,
+    "sha256": "bb06dd27b27abec70e96d06f2ed9c14162d287e280bacd1002d8868410c91213"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result150.txt",
+    "bytes": 433,
+    "sha256": "cc2460636bcda9f55d789643e41a5a886ea5bafca4fb19ca5ae64b2744f54c1d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result151.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result152.txt",
+    "bytes": 454,
+    "sha256": "ad4ecfe2c03c5d8f10d9cbc818e3fd712b175aec88a8d67b153ab926a4445ef1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result153.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result154.txt",
+    "bytes": 143,
+    "sha256": "fe263e2dec6589c2ac5f8e11f3231cfbe46e6eac9da35698430db890f47fbd68"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result155.txt",
+    "bytes": 462,
+    "sha256": "64a8214e14e7bf33c6a7da8eacf6711331bba2f226d1f8724c7c50581a2bdcdf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result156.txt",
+    "bytes": 172,
+    "sha256": "bf9caecb53587d230a4d424cf30675c498521fc6cdc823e10fecfe3a6921b370"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result157.txt",
+    "bytes": 463,
+    "sha256": "3407ea56070f49e9007f6334914089a9d06724b512d88f401144d418351773d4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result158.txt",
+    "bytes": 11367,
+    "sha256": "868c6fabe33307afc0a2c840b6fab4799919d4f919c3156bdf0ce3155667f0db"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result159.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result16.txt",
+    "bytes": 11302,
+    "sha256": "5c134e1095a4dc666564181e9f4f26d94877a3979c2efc2d1d64792a8de9ee97"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result160.txt",
+    "bytes": 144,
+    "sha256": "440394635b77892e7019d9d8b6dd13617f0fd1e80cee8c2b2320898a54ca62ea"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result161.txt",
+    "bytes": 168,
+    "sha256": "e0dc5777493af49481c8e7a1eccf4c3b81286e46a3903dcaded91b6d8e1450cd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result162.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result163.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result164.txt",
+    "bytes": 17608,
+    "sha256": "4842e0bf157a8373e162b542ba4451bf57ab70ef7c7c830c3cc346f7256f8612"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result165.txt",
+    "bytes": 197,
+    "sha256": "03016173f3c08d6484a2f47f742095ef5ceb4a457226867ec1cd672398bfed82"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result166.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result167.txt",
+    "bytes": 209,
+    "sha256": "ec72f00797cdfddb534ba88f7d30c6426fd35e262ec58137422b5518e6e5e320"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result168.txt",
+    "bytes": 435,
+    "sha256": "faf4d67afc92824a2affa74f82f7e746a2f652cc4364dad2e1f5d0af6160924c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result169.txt",
+    "bytes": 204,
+    "sha256": "f6a3f0436ad6a6716dec6be69ae57b5eb0914076b9dd5ac6225cd01dd981c072"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result17.txt",
+    "bytes": 142,
+    "sha256": "8e108db8ba31dc7f9b2b2b96886602acf4f2868541f8c0ed046ca83c33a07e28"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result170.txt",
+    "bytes": 637,
+    "sha256": "d430bebf88b82950d269812f7f0f8498ce0061cd9626b27886b2fd9471331b46"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result171.txt",
+    "bytes": 467,
+    "sha256": "b6dae41cca137b619399f43ea4fa1e95328e9a1d7d296b5e52a6771ee1323e2b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result172.txt",
+    "bytes": 212,
+    "sha256": "df0375adbb6c8de0385f56a49aa4c8030f6d24637c1398709ad47ea5a0ded52f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result173.txt",
+    "bytes": 273,
+    "sha256": "9318492cab08086f7dbfd8d132dc5ce5a0d1c99d22f861e934646dbf23022f45"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result174.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result175.txt",
+    "bytes": 475,
+    "sha256": "9983f0fc65a0b6ba94df698e3d4de13a82bd04c2b2708f515cab86cd7bbe99a0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result176.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result177.txt",
+    "bytes": 678,
+    "sha256": "124246fc83b289b8963a9468ccc5cc948cc628cdb550203891e8bb7b3de83bcb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result178.txt",
+    "bytes": 164,
+    "sha256": "22589307a2510a95fe545e3cc1d109c6423102e72bc6e782a0709395e91b0917"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result179.txt",
+    "bytes": 649,
+    "sha256": "3962272e4db5e4c8bd0b4eab471fc7b631840a36919f3fb7c3674aff6918cc46"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result18.txt",
+    "bytes": 332,
+    "sha256": "f74f0c884c369c8e0bda79a73329f16cdc5ca0b1761ff405991b2259359397c5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result180.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result181.txt",
+    "bytes": 433,
+    "sha256": "1ee2192a57a6783bc0f4321c3d09da003de028079f8e266ebcd35e92562b2f48"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result182.txt",
+    "bytes": 460,
+    "sha256": "8d48b5c78c5d387ae16dae87f526b13b4af5773ce1b034b3b4306138c14537c3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result183.txt",
+    "bytes": 158,
+    "sha256": "fe0cd052d53f324b35b77b6f43940e4b8aead8fef2e14e6182cb1c23a816aec7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result184.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result185.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result186.txt",
+    "bytes": 376,
+    "sha256": "eff860923a5a3063e54b075a7f2b9304b6fb6699faf7224d85a423a4d30b2bbc"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result187.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result188.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result189.txt",
+    "bytes": 130,
+    "sha256": "fc1f83c084fb7113f5b2624899e372609f849eb6ad6d3a89ae0591407de07ee1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result19.txt",
+    "bytes": 508,
+    "sha256": "3790d0a8d9b2c8b47ef52baa40a114a090c1280b3189a1e4f864d408d487eda9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result190.txt",
+    "bytes": 632,
+    "sha256": "566e63129fda99650e8c2c2a988e9ccbbe9c0d770094d8f2642ba587b148a6ea"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result191.txt",
+    "bytes": 276,
+    "sha256": "a2d0c1b602b902a78ef7ea1c91c5e811442ca4b34fcfb29e7877ab1f5e6ef4ed"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result192.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result193.txt",
+    "bytes": 43910,
+    "sha256": "35f7d89dbc455ed3782a090e9c69da8aca0249214d54fcdaf3ce761774acd06a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result194.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result195.txt",
+    "bytes": 11557,
+    "sha256": "d0d186c170417ceb2f10ceee617ae205257bfa38df2906233bb5dffaab8d95ca"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result196.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result197.txt",
+    "bytes": 130,
+    "sha256": "1f905d7c7650644541b15eda22364aebafbff42f007692d630e289ee7f4b93de"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result198.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result199.txt",
+    "bytes": 9950,
+    "sha256": "c0c001ea0c5199bfa25e7bbff0a3cf58406803d98de494a9c834cd13cce17b3c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result2.txt",
+    "bytes": 159,
+    "sha256": "1e65aaaf357e785beb053c912eba6c9301539c8ce0062a175c646020e7eb7a75"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result20.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result200.txt",
+    "bytes": 463,
+    "sha256": "b097c513c48dda42ba31610f01291b3f2510143c170d727aa80a976249c6730c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result201.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result202.txt",
+    "bytes": 171,
+    "sha256": "caf6af8504d61b6b811730a6fa3a112e4303bd378c50ca2eecd9f114517c7c31"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result203.txt",
+    "bytes": 193,
+    "sha256": "d67022f4c84313dccb13eeb2f6a0d34f665656f2671b972f1308933d96529ac5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result204.txt",
+    "bytes": 277,
+    "sha256": "0e6509d6c93bad8b7cb0d77bc86e72c76787a558c3713174ce000051da1f1d2b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result205.txt",
+    "bytes": 206,
+    "sha256": "7421bfc5376a639547092db8995100f9f0033a56112b86edcb1bfcd1cde51bac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result206.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result207.txt",
+    "bytes": 129,
+    "sha256": "bb3c26e8317749cdcf7847d01492f4810c7685fda63f114b24151cb78449aa54"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result208.txt",
+    "bytes": 375,
+    "sha256": "cf97a7c50d4903d30e5e9a20917a4225610b83b824ccbfa243f42bbbb1afde88"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result209.txt",
+    "bytes": 1079,
+    "sha256": "ac6008f10eac33010feeef1b26129239dbe53657f994bb3771efc19395f470b8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result21.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result210.txt",
+    "bytes": 459,
+    "sha256": "7a525543ffca9978438b6244e19d35ee0bcf50a81b0cf9cde4cbe017ae737558"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result211.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result212.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result213.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result214.txt",
+    "bytes": 9970,
+    "sha256": "9e158d5837976a0c0b6c9d596bd85a52ddd092da68a8fee0ce4c30a7f51617e9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result215.txt",
+    "bytes": 366,
+    "sha256": "d0dc6a9ccf05136b99a231711b25b13c3400f3491051fc0c707f485120ecc05d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result216.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result217.txt",
+    "bytes": 650,
+    "sha256": "0b816ac3d881c2e14093ed0d4f6c71ff1011b1d6a300b2047e821b1798579143"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result218.txt",
+    "bytes": 358,
+    "sha256": "1e0fea09bc182f0d3a3a6c859e803bc0c9f2fc69b9bee90c1f4d0fb6a5431ea7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result219.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result22.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result220.txt",
+    "bytes": 459,
+    "sha256": "0ac9de1431ae8843e2299eb752ef43b02a5276c5dcec02c866fa40fbfe0d9f62"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result221.txt",
+    "bytes": 183,
+    "sha256": "0b06f9be26aaa9e4a69053a34f1d440cba167ac852b222f4d68ec29a34a83eb3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result222.txt",
+    "bytes": 128,
+    "sha256": "714f08a40efd3e8157fa57b8d316ce11b1f3cf6f9c15c6c8f3b551548c1a491a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result223.txt",
+    "bytes": 139,
+    "sha256": "8fd11348389f81e52b56c1bfcf94e83fe881359ae6cb28906a3175354bb030a1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result224.txt",
+    "bytes": 465,
+    "sha256": "e435832b029588253a8c7e5a68a8dff74a6606e7bdc1b1169ce3eec35ed9b618"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result225.txt",
+    "bytes": 165,
+    "sha256": "bd85a1ff997f46dd519537667d0672f1d4b8002d678971d6bc8e584ecb9c93b5"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result226.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result227.txt",
+    "bytes": 269,
+    "sha256": "9f78dd173ebcde2824bec9931d6ece3e66ea3ff0fd3511e03dc5bc21ff7ac954"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result228.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result229.txt",
+    "bytes": 181,
+    "sha256": "165989a7c35be57e0f46d942beb759ba43a073f7861474cdde4ac1915aac4788"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result23.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result230.txt",
+    "bytes": 142,
+    "sha256": "5d19fc47a0ace3327d138a8a84202cbcbe5c2ca9e0cb6d8d2af17c0581806b66"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result231.txt",
+    "bytes": 430,
+    "sha256": "df6e69a751a5b37f44b9d374701af4a098a021c6c2fa055777f394d7221bffac"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result232.txt",
+    "bytes": 658,
+    "sha256": "291a47b9093f44ddfeea4fe90ae48a20a3598d9fe37c117aeed771fdbdd0686d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result233.txt",
+    "bytes": 257,
+    "sha256": "0a3f5adbd204c715eb95dd08f0d98d84ffaed41d890325b7bee5836485a69ecd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result234.txt",
+    "bytes": 139,
+    "sha256": "5c1b26cca69b1abf01324696dfa970a397fa2b8cb62bbe446084c4f21ee3d14a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result235.txt",
+    "bytes": 242,
+    "sha256": "4757d41b84c4a070e4cdd39c2a32bdd00659207aa14799d6ada760cb21f6c38a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result236.txt",
+    "bytes": 630,
+    "sha256": "d147bfa5cb1c36af87bcef533c684f54cc51408d89488bc35936d629bf8bf356"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result237.txt",
+    "bytes": 440,
+    "sha256": "685dba6eeeadc9274aa7c4adb5405fdccb3bc601cdf3b4d80630eb8d39246e47"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result238.txt",
+    "bytes": 204,
+    "sha256": "4e8b89274b6949a2944ceb6d13c3284d024e4056b83a1cf12360c6f2a842b30d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result239.txt",
+    "bytes": 773,
+    "sha256": "41a4722c1b332e05c99107e0171f3984baccb46e25b6cbee2235cdaa12db8a7c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result24.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result240.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result241.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result242.txt",
+    "bytes": 278,
+    "sha256": "7686bd24efff1ad156ee681351260baafa4853152921ce65666f0a7f9d75104a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result243.txt",
+    "bytes": 781,
+    "sha256": "69f8597396e46b25018e86fc0860e5bc2136579e1b03b2634f0f6ed12afc6e2f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result244.txt",
+    "bytes": 360,
+    "sha256": "46754fe5a69aa7738f1470a0c5e552916b0c62992b08c488205b10749a53bcd8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result245.txt",
+    "bytes": 276,
+    "sha256": "c9a94d95e43064e2a685b29a7a4ac31bb92d11243d2c4390f71b92f0f9086d0a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result246.txt",
+    "bytes": 459,
+    "sha256": "fd923b16d0625936d3bbabac35bc3dcce18cdcb3b54407505ac1060d3e897587"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result247.txt",
+    "bytes": 508,
+    "sha256": "45a3540334e4ba04cc8ee8289b05b4165621fd70d7716e4d3db41e21dc77f80c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result248.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result249.txt",
+    "bytes": 9955,
+    "sha256": "c4053f81474a604fa74e281adea1046fdab8c22c43cf102630a1c95ab1a8b79e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result25.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result250.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result251.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result252.txt",
+    "bytes": 173,
+    "sha256": "6e93e8a2164d437113b420ca738cb8f8cc4c4ebdbbac87afa1a0ee7d55799bc8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result253.txt",
+    "bytes": 278,
+    "sha256": "607d509fd68fb282ece56be2bac063d4e04a1f067002b6e012ba2cbd83ca6ca9"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result254.txt",
+    "bytes": 621,
+    "sha256": "d018ac32a0b4b21e5db5855f9ea57745aedfb97a9c84aa829fcbe8030f4735d2"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result255.txt",
+    "bytes": 368,
+    "sha256": "fb7e3e9802866f24840a2c6d16ae1b35738e6c1f7d868f445b79559acc458ae0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result256.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result257.txt",
+    "bytes": 11480,
+    "sha256": "a39e5c251048f5da0e7c364afa72fe6b92a453e2928884f622c72cdefab4c06f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result258.txt",
+    "bytes": 723,
+    "sha256": "a66ef1949f9286759bfa73aeb57280b837ea9f7a19364f922e6aafe7e4f8d4cd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result259.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result26.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result260.txt",
+    "bytes": 130,
+    "sha256": "cb2303f8a07f05c263169e47e4a34e49764745345c09958764d0d823c3a6fd7b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result261.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result262.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result263.txt",
+    "bytes": 201,
+    "sha256": "fb0e0cd4654f98bb87346e403353047a6fcd41199ea54bc8e3383cd652070537"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result264.txt",
+    "bytes": 821,
+    "sha256": "68dc052cbbdb5e9423697e6377ee4f725b585b9a23a1b4552424e4a450fb70bc"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result265.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result266.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result267.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result268.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result269.txt",
+    "bytes": 657,
+    "sha256": "97a0db38ae44e268367f52b5b753d39ca637ebabaa17f856143251f48f4d4a98"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result27.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result28.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result29.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result3.txt",
+    "bytes": 704,
+    "sha256": "101fe0ef183f5afe94434a929a9e98c088e295aefcb21c7ceb0b97ae657d5782"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result30.txt",
+    "bytes": 371,
+    "sha256": "b92b858100f1dfe0f459cdc974b2f2d530f6122baeedfcfd653497b5b75e6361"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result31.txt",
+    "bytes": 384,
+    "sha256": "a0be2573b4ef52c9623af9a44e306a09e1f45ada9c15406fb08695abfd2dbbf1"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result32.txt",
+    "bytes": 149,
+    "sha256": "c037a98b66977525490640fd88251b431573880ce17f00191945fc9e7c2f52bf"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result33.txt",
+    "bytes": 150,
+    "sha256": "7cdaf503d0b9e8346c0ded753380a2927e2c2da81a2192b8a694f9394ad21f6d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result34.txt",
+    "bytes": 173,
+    "sha256": "8156bbfcf73d5f0037f48a320d7fb2648eb8a3a8530e15698c174a7e8e89a6e8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result35.txt",
+    "bytes": 165,
+    "sha256": "c82236056cdab947a946258118095e2b1a8ec276db3ad1a547dc96aac24b8255"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result36.txt",
+    "bytes": 170,
+    "sha256": "3a8f13d7efe32427e61d68bdf8ba33f8127db302776fcf177a5a9b2cc9317187"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result37.txt",
+    "bytes": 693,
+    "sha256": "e6b13d65820296762a7ca65d66e20958459bd7fa14553e2d9483d2ef4948717d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result38.txt",
+    "bytes": 796,
+    "sha256": "b9ad3e33fe36f914dd4db93e8a7afb3ecb23a1945c3b5130a531381753e111ec"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result39.txt",
+    "bytes": 805,
+    "sha256": "b18c99fea88739898cb720f72d805d40b1b0d8d288c2e3a6d45b6650e48dfe30"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result4.txt",
+    "bytes": 219,
+    "sha256": "d216e53fab6276430036760f53e5c8af043bc6926b36a420dc865917a9b40a70"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result40.txt",
+    "bytes": 247,
+    "sha256": "642cee57e25d764de1434b3fc379f443f48b13c66659dc3ca5e8a075c0cfc5fc"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result41.txt",
+    "bytes": 250,
+    "sha256": "c59f1dd9caf1cd0dd45cf93fc0cf090a4aa4dd5c5221e787d5e99adedc1ebd80"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result42.txt",
+    "bytes": 250,
+    "sha256": "92976a931da2b8d3fb78eb17aae0f031a0bdcd2057585a813d0956d5301f0071"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result43.txt",
+    "bytes": 255,
+    "sha256": "fffe667e843143d162d76f3f9f8f890e2b39d8a2c0d99ca570c47cb03386ce3c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result44.txt",
+    "bytes": 472,
+    "sha256": "19ea0c44ed1ef27ba8e8ea07f74867746d95f0debc58defae72298c934f3d18c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result45.txt",
+    "bytes": 479,
+    "sha256": "a3f803a340e4127d3eddc167c8440ba1a163b136a4cae698b2c31b0c6d8018b3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result46.txt",
+    "bytes": 29525,
+    "sha256": "be80b9c2a898a5adf048bfade072b08adc92bfa91276badb7b49e2a97e9e8a49"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result47.txt",
+    "bytes": 29541,
+    "sha256": "ad52fb1822bbbafcd308b6c26ee3b831a8489505b1c5cdc820bcdf7920847fc3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result48.txt",
+    "bytes": 11343,
+    "sha256": "cc710588de50e3476b4edf434c98cda831408e78ff91dfeae2cffb38cf02a50d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result49.txt",
+    "bytes": 11354,
+    "sha256": "92fbfea852116e39737514c9b8b5259e3ab6b3755307f85624f255b3baf04b32"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result5.txt",
+    "bytes": 238,
+    "sha256": "6689709bfcc9189cec1a1884c2c310d8b03b8dbe945380ce2772df0c16890a29"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result50.txt",
+    "bytes": 459,
+    "sha256": "2c9ddc16d1a0d413e0e8ad08353ea0ee78d82529aa9f4250af9b847a7cf4c9d0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result51.txt",
+    "bytes": 158,
+    "sha256": "69b144c025ca5d7a6d9720e97728cf2f311ca44685f564db099f3fa71a1351ab"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result52.txt",
+    "bytes": 194,
+    "sha256": "6fe33897114178c61d73b17860f0d9585745414ff5e46ca95e3ac228857a9081"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result53.txt",
+    "bytes": 697,
+    "sha256": "bef1a5e6ab0d9bb9be994b3164f3f839828e0c379e62cbb10cd5310cf9b71793"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result54.txt",
+    "bytes": 226,
+    "sha256": "211397041d197857e4597c1ac622f21022e9715edea38856fb7f9b51cd0938d3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result55.txt",
+    "bytes": 239,
+    "sha256": "899978476a3aa954719cda90d6d07cdefb210d72be5f87305371da17d58ff53c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result56.txt",
+    "bytes": 171,
+    "sha256": "575bd324ed5b6cdefb0bc7d9d39e9ef8aedd3335c6b51705272372ee61206460"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result57.txt",
+    "bytes": 406,
+    "sha256": "548e15f8fae4a00d38694f67fe7bdb7e8863c1dec1f19b1040510095280bebe8"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result58.txt",
+    "bytes": 183,
+    "sha256": "daa4eaa7d8a594e749893686d4cabf620f21d266432f02ac2f93cc564e02b4b4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result59.txt",
+    "bytes": 11726,
+    "sha256": "5e9afffa05101f3d24823e80a9529c33f9cb47a09b5127aa02e8a77b1e253db2"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result6.txt",
+    "bytes": 275,
+    "sha256": "84ccc6bd623a0b2186cdfbf96e0e81cc876bfff80c64695412fa7be542a75759"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result60.txt",
+    "bytes": 174,
+    "sha256": "3621c6a0f135ecfc6d91fe4ebb8ed8129152fa536b6fb0cfbfc8f3a9a54756f4"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result61.txt",
+    "bytes": 173,
+    "sha256": "56b47b112f1e4e879e6d5104fbc497b1666931130b5064f31f0a353809ca79d0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result62.txt",
+    "bytes": 278,
+    "sha256": "f042f2b3ac53b69f8d1ffc4cb0b9b7db927b0daa7ea69812f6f4b1f07dab39f3"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result63.txt",
+    "bytes": 361,
+    "sha256": "8ed9c452c241d696bc619b4bd2c2c89a5515ecd913cfde4b0d134825183f2bae"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result64.txt",
+    "bytes": 28901,
+    "sha256": "0337b271f2afc0c04de74751dc2c480125158a39cdce602d8108e490a6c27bdd"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result65.txt",
+    "bytes": 600,
+    "sha256": "987c561742a32832a7b5b0270306a54abdeb4e1c38cf516b3a4d44a8eae18bf7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result66.txt",
+    "bytes": 11663,
+    "sha256": "77fcd20035789dd2d6e570855e73f9ca4065cb3f68d55176ad628fabd6be2326"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result67.txt",
+    "bytes": 147,
+    "sha256": "5e9bbfa7ac51027d8c22ab58daa2eaabddafc3459f2a8622f9f17c90f4454d43"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result68.txt",
+    "bytes": 224,
+    "sha256": "da3c2170e81e9c5fd28ff6164bd09c9a7e5e0334df9abd682c2a9c8551287b2a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result69.txt",
+    "bytes": 399,
+    "sha256": "f39f4c2e0522285e8ed44449d503d1db55cff1cc868a85d36bcbed475c15edd0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result7.txt",
+    "bytes": 525,
+    "sha256": "6ef5865b0f32d6f7ba69aed45986ac0673f52c373a7de6d39a3365599f9fb05d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result70.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result71.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result72.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result73.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result74.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result75.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result76.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result77.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result78.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result79.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result8.txt",
+    "bytes": 208,
+    "sha256": "5af6a68fd4b0fa1ea7cfaab5010c43c0cb85412979be0e65cd86d6f6ecf3cd82"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result80.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result81.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result82.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result83.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result84.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result85.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result86.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result87.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result88.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result89.txt",
+    "bytes": 10,
+    "sha256": "77d6af16fa0ab1c92ca668f841100b89e6f8f5671b69bc7fadd9b2f1084d5289"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result9.txt",
+    "bytes": 11509,
+    "sha256": "024a38cb4ca1dc3ab4bd7531fa5465f7cf4bb06cc459d29f73ae354e06af5a05"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result90.txt",
+    "bytes": 144,
+    "sha256": "64efbc10de2fe1ce7cb591b1b06a1fbc161471b5ddb8d94fdf78ff373efc4938"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result91.txt",
+    "bytes": 11031,
+    "sha256": "0497e68da7e5edfe18161d312fc43d387589cbc3f834dcdd7b28acd673fd6887"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result92.txt",
+    "bytes": 140,
+    "sha256": "d07d4bbc01d304ecd96d81e2e3beac7df4a21ea4ff50ccaeadb412cf7591f35b"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result93.txt",
+    "bytes": 29809,
+    "sha256": "1b27843bd1ff35c7af5d1c5e980c1722333cbae347dfb7de2539827cb35c946f"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result94.txt",
+    "bytes": 630,
+    "sha256": "7052959e79662382c6a8aaf96254f8d97a833ea94044c8461746ee880a560dcb"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result95.txt",
+    "bytes": 162,
+    "sha256": "e9ba2008cb5a4b189761a6d9f7220d030523470e6f2e374245de22cc2f24206d"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result96.txt",
+    "bytes": 647,
+    "sha256": "0054e2c15c53698f6eff559c111129628bbaf95d2ed4d22ca42681d1e5951aa7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result97.txt",
+    "bytes": 696,
+    "sha256": "6e582e67e4760a6a560215662b478f8748d6a8cb1aec09932d59249c86535713"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result98.txt",
+    "bytes": 142,
+    "sha256": "4bada20647478830676c649476da9a8d8964f4fe4000ad2f8b8d0e8087777260"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/public_cases/result99.txt",
+    "bytes": 284,
+    "sha256": "c46a92fa028f670546c5a2035691f6b134828052f904165973da92838d4c0bfe"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/README.md",
+    "bytes": 12453,
+    "sha256": "14c6e249d6f5234086aafa38116e08fda543eae959ed778476e173a44ed71eec"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/student/build.sh",
+    "bytes": 350,
+    "sha256": "6c05d04dd254266e8c1798bf15564bbd5818179928c71d67d9074775aa37fe8a"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/student/detector.cpp",
+    "bytes": 4867,
+    "sha256": "12751b929d92eee32d74294550a752a20fd12d4684c623ff1373901429f2f0c7"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/student/run.sh",
+    "bytes": 519,
+    "sha256": "3ac4d0c0b27f9d509873249c1b1f50ecd1be07204bcc40d0a7ec8c49abea8bca"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan0.v",
+    "bytes": 746,
+    "sha256": "3ca6eb73b8ae60ed40147fdefc7c777057e431810872cb65e52af080aec15a78"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan1.v",
+    "bytes": 281,
+    "sha256": "8f6e48841e11dffcee6fd9825098ae5e17443192ae6d7559b243e6065c4dd413"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan2.v",
+    "bytes": 536,
+    "sha256": "36c795a6d1eb54694ce755ab95fd1cd3be3a26c2fb0e7ee79b0b1ebc30d8136e"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan3.v",
+    "bytes": 518,
+    "sha256": "9258f7883196f98700495ccf48eaed2a3dc0a11fc29073f2fddb6e3bcf74d966"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan4.v",
+    "bytes": 515,
+    "sha256": "e20251891c653d2824b34a7d8e979092db1733e0d9a7b8d8df9fc49c5f5b596c"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan5.v",
+    "bytes": 785,
+    "sha256": "b48f6505ec0ad1de748b84bff76a83c9adb024ee72f08a8150993826043d8864"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan6.v",
+    "bytes": 645,
+    "sha256": "9c0f542420156cae8e81245f235ea175b086a41aa701c032a361110f8a4b24ed"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan7.v",
+    "bytes": 433,
+    "sha256": "bd158ebc9df6923a128697925e2ff436478ea1e4164b7a8dc1af1192b1f49cd0"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan8.v",
+    "bytes": 784,
+    "sha256": "8eceaef0b4c0abeaf0f84849e6f0b22a1166f4389747f4ecbd49ec2d335f1229"
+  },
+  {
+    "archive": "HW3.zip",
+    "path": "HW3/HW3/trojan_definition/trojan9.v",
+    "bytes": 428,
+    "sha256": "d7cad664a2627a7cd8a16ac687710aa3b20ebf6207c3cc9caa1f5d236eb81ace"
+  },
+  {
+    "archive": "112021101 (1).zip",
+    "path": "112021101 (1)/112021101/build.sh",
+    "bytes": 359,
+    "sha256": "ab63380de8bbef02cacd6b333ca8848c391eafc23447397cd3ea322791a27857"
+  },
+  {
+    "archive": "112021101 (1).zip",
+    "path": "112021101 (1)/112021101/detector.cpp",
+    "bytes": 59182,
+    "sha256": "fd4456890ae65db43a65ff7a78109c60b4564a211fd99355b774683d0e811008"
+  },
+  {
+    "archive": "112021101 (1).zip",
+    "path": "112021101 (1)/112021101/run.sh",
+    "bytes": 519,
+    "sha256": "3ac4d0c0b27f9d509873249c1b1f50ecd1be07204bcc40d0a7ec8c49abea8bca"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/AES/aes_128.v",
+    "bytes": 1191,
+    "sha256": "7daf1e77d8dd8244e6615bbb05fd702cac1271b4af344324278dae6bcf7b5e10"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/AES/AES_top.v",
+    "bytes": 574,
+    "sha256": "00da0156180327d12155a9f6c0a8e9b1f9de709cf67cb2f869a672ca19d1fcff"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/AES/expand_key_128.v",
+    "bytes": 918,
+    "sha256": "a93a259845b20e1845533bf16dd8b8eab43ca103da142ebab0c756b5a8569006"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/AES/round.v",
+    "bytes": 3138,
+    "sha256": "9f056f31de8f9e907fcab27185c638435f97f30d2e337a22ea051d11fbecb88a"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/AES/table.v",
+    "bytes": 14152,
+    "sha256": "24e2980e0dbbd94ab25352b972a0303e243c8283ab25e116ae2706dba3b6cc10"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/bonus/aes_128.v",
+    "bytes": 1191,
+    "sha256": "7daf1e77d8dd8244e6615bbb05fd702cac1271b4af344324278dae6bcf7b5e10"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/bonus/AES_top.v",
+    "bytes": 3125,
+    "sha256": "d001e717721152b92661e548e38c65f746b90e7607643bee012b38346379178d"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/bonus/expand_key_128.v",
+    "bytes": 918,
+    "sha256": "a93a259845b20e1845533bf16dd8b8eab43ca103da142ebab0c756b5a8569006"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/bonus/round.v",
+    "bytes": 3190,
+    "sha256": "3d22871fefe3982e3cdec17cb2ac52c890aaca45e6b49791bf1d2b2601035bfb"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/bonus/table.v",
+    "bytes": 14152,
+    "sha256": "24e2980e0dbbd94ab25352b972a0303e243c8283ab25e116ae2706dba3b6cc10"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/sample_HT/aes_128.v",
+    "bytes": 1191,
+    "sha256": "7daf1e77d8dd8244e6615bbb05fd702cac1271b4af344324278dae6bcf7b5e10"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/sample_HT/AES_top.v",
+    "bytes": 1328,
+    "sha256": "2f70f688a4aadf30dc8e8741fc25b7832a5d63030f6411404a5a19654d557735"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/sample_HT/expand_key_128.v",
+    "bytes": 918,
+    "sha256": "a93a259845b20e1845533bf16dd8b8eab43ca103da142ebab0c756b5a8569006"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/sample_HT/round.v",
+    "bytes": 3190,
+    "sha256": "3d22871fefe3982e3cdec17cb2ac52c890aaca45e6b49791bf1d2b2601035bfb"
+  },
+  {
+    "archive": "112021101.zip",
+    "path": "112021101/112021101/sample_HT/table.v",
+    "bytes": 14152,
+    "sha256": "24e2980e0dbbd94ab25352b972a0303e243c8283ab25e116ae2706dba3b6cc10"
+  }
+]

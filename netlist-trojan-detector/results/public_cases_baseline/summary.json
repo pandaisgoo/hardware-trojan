@@ -1,0 +1,33 @@
+{
+  "environment": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "binary_sha256": "8e46aeabaa0c6e5c1e361e356e5064543fd0099cd5c89e5044a3b2351201a024",
+  "source_sha256": "fd4456890ae65db43a65ff7a78109c60b4564a211fd99355b774683d0e811008",
+  "case_count": 270,
+  "positive_cases": 180,
+  "negative_cases": 90,
+  "confusion": {
+    "tp": 160,
+    "tn": 75,
+    "fp": 15,
+    "fn": 20
+  },
+  "invalid_predictions": 0,
+  "label_correct": 235,
+  "label_accuracy": 0.8703703703703703,
+  "positive_precision": 0.9142857142857143,
+  "positive_recall": 0.8888888888888888,
+  "mean_gate_f1_all_positive": 0.2935397768489418,
+  "mean_gate_f1_true_positive": 0.3302322489550595,
+  "exact_positive_gate_sets": 2,
+  "score": 522.8371598328096,
+  "max_score": 720,
+  "nonzero_exits": 0,
+  "timeouts": 0,
+  "invalid_formats": 0,
+  "unknown_gate_id_cases": 0,
+  "median_wall_seconds": 0.025730742999996892,
+  "max_wall_seconds": 1.7302754990000153,
+  "total_run_wall_seconds": 25.78048314799986,
+  "note": "One run on uploaded public_cases; not hidden-set performance. Detector unchanged. Gate F1 is zero for missed positive cases. Scoring matches supplied score.py; format/exit checks are separately reported. Timing is from a shared container and is not a dedicated performance benchmark.",
+  "score_fraction": 0.7261627219900133
+}

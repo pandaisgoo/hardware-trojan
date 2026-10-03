@@ -1,0 +1,7 @@
+{
+  "cases_checked": 270,
+  "mismatch_cases": [],
+  "max_absolute_difference": 4.440892098500626e-16,
+  "supplied_score_sha256": "84acb7d4232c3d0c2a3cfefaa8f9cd22b4d2880808fb8dbcaa544f1c1ac3f857",
+  "comparison": "Per-case F1 and score cross-checked against the functions in the uploaded evaluation/score.py; tolerance 1e-12."
+}

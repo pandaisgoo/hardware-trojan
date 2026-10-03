@@ -1,0 +1,92 @@
+[
+  {
+    "path": "AES/AES_top.v",
+    "bytes": 574,
+    "sha256": "00da0156180327d12155a9f6c0a8e9b1f9de709cf67cb2f869a672ca19d1fcff",
+    "unchanged": true
+  },
+  {
+    "path": "AES/aes_128.v",
+    "bytes": 1191,
+    "sha256": "7daf1e77d8dd8244e6615bbb05fd702cac1271b4af344324278dae6bcf7b5e10",
+    "unchanged": true
+  },
+  {
+    "path": "AES/expand_key_128.v",
+    "bytes": 918,
+    "sha256": "a93a259845b20e1845533bf16dd8b8eab43ca103da142ebab0c756b5a8569006",
+    "unchanged": true
+  },
+  {
+    "path": "AES/round.v",
+    "bytes": 3138,
+    "sha256": "9f056f31de8f9e907fcab27185c638435f97f30d2e337a22ea051d11fbecb88a",
+    "unchanged": true
+  },
+  {
+    "path": "AES/table.v",
+    "bytes": 14152,
+    "sha256": "24e2980e0dbbd94ab25352b972a0303e243c8283ab25e116ae2706dba3b6cc10",
+    "unchanged": true
+  },
+  {
+    "path": "bonus/AES_top.v",
+    "bytes": 3125,
+    "sha256": "d001e717721152b92661e548e38c65f746b90e7607643bee012b38346379178d",
+    "unchanged": true
+  },
+  {
+    "path": "bonus/aes_128.v",
+    "bytes": 1191,
+    "sha256": "7daf1e77d8dd8244e6615bbb05fd702cac1271b4af344324278dae6bcf7b5e10",
+    "unchanged": true
+  },
+  {
+    "path": "bonus/expand_key_128.v",
+    "bytes": 918,
+    "sha256": "a93a259845b20e1845533bf16dd8b8eab43ca103da142ebab0c756b5a8569006",
+    "unchanged": true
+  },
+  {
+    "path": "bonus/round.v",
+    "bytes": 3190,
+    "sha256": "3d22871fefe3982e3cdec17cb2ac52c890aaca45e6b49791bf1d2b2601035bfb",
+    "unchanged": true
+  },
+  {
+    "path": "bonus/table.v",
+    "bytes": 14152,
+    "sha256": "24e2980e0dbbd94ab25352b972a0303e243c8283ab25e116ae2706dba3b6cc10",
+    "unchanged": true
+  },
+  {
+    "path": "sample_HT/AES_top.v",
+    "bytes": 1328,
+    "sha256": "2f70f688a4aadf30dc8e8741fc25b7832a5d63030f6411404a5a19654d557735",
+    "unchanged": true
+  },
+  {
+    "path": "sample_HT/aes_128.v",
+    "bytes": 1191,
+    "sha256": "7daf1e77d8dd8244e6615bbb05fd702cac1271b4af344324278dae6bcf7b5e10",
+    "unchanged": true
+  },
+  {
+    "path": "sample_HT/expand_key_128.v",
+    "bytes": 918,
+    "sha256": "a93a259845b20e1845533bf16dd8b8eab43ca103da142ebab0c756b5a8569006",
+    "unchanged": true
+  },
+  {
+    "path": "sample_HT/round.v",
+    "bytes": 3190,
+    "sha256": "3d22871fefe3982e3cdec17cb2ac52c890aaca45e6b49791bf1d2b2601035bfb",
+    "unchanged": true
+  },
+  {
+    "path": "sample_HT/table.v",
+    "bytes": 14152,
+    "sha256": "24e2980e0dbbd94ab25352b972a0303e243c8283ab25e116ae2706dba3b6cc10",
+    "unchanged": true
+  }
+]

@@ -1,0 +1,14 @@
+/detector
+*.o
+*.obj
+*.exe
+/build/
+/data/public_cases/
+/public_cases/
+/trojan_definition/
+*.zip
+*.tar.gz
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

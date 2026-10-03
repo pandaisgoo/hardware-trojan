@@ -1,0 +1,20 @@
+[
+  {
+    "path": "build.sh",
+    "bytes": 359,
+    "sha256": "ab63380de8bbef02cacd6b333ca8848c391eafc23447397cd3ea322791a27857",
+    "unchanged": true
+  },
+  {
+    "path": "detector.cpp",
+    "bytes": 59182,
+    "sha256": "fd4456890ae65db43a65ff7a78109c60b4564a211fd99355b774683d0e811008",
+    "unchanged": true
+  },
+  {
+    "path": "run.sh",
+    "bytes": 519,
+    "sha256": "3ac4d0c0b27f9d509873249c1b1f50ecd1be07204bcc40d0a7ec8c49abea8bca",
+    "unchanged": true
+  }
+]
